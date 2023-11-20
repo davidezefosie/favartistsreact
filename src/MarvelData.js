@@ -5,7 +5,7 @@ export const characters = [
     name: "Miles Morales",
     alias: "Travis Scott",
     about: "Jacques Bermon Webster II, known professionally as Travis Scott, is an American rapper, singer, songwriter, and record producer. Throughout his career, Scott has achieved four number-one hits on the US Billboard Hot 100 chart, along with a total of eighty charted songs.",
-    genre: "Trap; Hip hop Music",
+    genre: "Trap; Hip hop music",
     img1: "https://media.cnn.com/api/v1/images/stellar/prod/221024083657-travis-scott-0912-file.jpg?c=16x9&q=h_720,w_1280,c_fill",
     nationality: "American",
     description:
