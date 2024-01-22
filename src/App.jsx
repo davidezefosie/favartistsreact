@@ -14,9 +14,7 @@ function App() {
             <div className="main">
               <img className="avatarImage" src={data.img1} alt={data.alias} />
               <h2>{data.alias}</h2>
-              <p className="description">
-                {data?.about}
-              </p>
+              <p className="description">{data?.about}</p>
               <div className="avatarInfo">
                 <div className="price">
                   <ins>Genre:</ins>
